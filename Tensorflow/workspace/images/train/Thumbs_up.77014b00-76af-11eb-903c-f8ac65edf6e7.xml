@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimagesv3</folder>
+	<filename>Thumbs_up.77014b00-76af-11eb-903c-f8ac65edf6e7.jpg</filename>
+	<path>E:\RealTimeHandGestureRecognition\Tensorflow\workspace\images\collectedimagesv3\Thumbs_up.77014b00-76af-11eb-903c-f8ac65edf6e7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Thumbs up</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>76</xmin>
+			<ymin>203</ymin>
+			<xmax>187</xmax>
+			<ymax>401</ymax>
+		</bndbox>
+	</object>
+</annotation>

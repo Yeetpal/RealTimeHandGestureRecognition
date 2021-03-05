@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimagesV2</folder>
+	<filename>Rock_on.4fc3aa30-66fa-11eb-8758-f8ac65edf6e7.jpg</filename>
+	<path>E:\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimagesV2\Rock_on.4fc3aa30-66fa-11eb-8758-f8ac65edf6e7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Rock on</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>111</xmin>
+			<ymin>219</ymin>
+			<xmax>222</xmax>
+			<ymax>343</ymax>
+		</bndbox>
+	</object>
+</annotation>

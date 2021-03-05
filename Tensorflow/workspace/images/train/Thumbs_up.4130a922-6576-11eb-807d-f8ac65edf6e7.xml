@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>Thumbs_up.4130a922-6576-11eb-807d-f8ac65edf6e7.jpg</filename>
+	<path>E:\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\Thumbs_up.4130a922-6576-11eb-807d-f8ac65edf6e7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Thumbs up</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>441</xmin>
+			<ymin>145</ymin>
+			<xmax>526</xmax>
+			<ymax>290</ymax>
+		</bndbox>
+	</object>
+</annotation>

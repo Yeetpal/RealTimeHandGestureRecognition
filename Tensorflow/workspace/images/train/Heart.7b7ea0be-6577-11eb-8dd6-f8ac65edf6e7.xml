@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>Heart.7b7ea0be-6577-11eb-8dd6-f8ac65edf6e7.jpg</filename>
+	<path>E:\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\Heart.7b7ea0be-6577-11eb-8dd6-f8ac65edf6e7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Heart</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>222</xmin>
+			<ymin>335</ymin>
+			<xmax>537</xmax>
+			<ymax>471</ymax>
+		</bndbox>
+	</object>
+</annotation>

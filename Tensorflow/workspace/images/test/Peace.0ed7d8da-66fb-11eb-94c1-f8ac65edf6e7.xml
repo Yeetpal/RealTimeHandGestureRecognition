@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimagesV2</folder>
+	<filename>Peace.0ed7d8da-66fb-11eb-94c1-f8ac65edf6e7.jpg</filename>
+	<path>E:\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimagesV2\Peace.0ed7d8da-66fb-11eb-94c1-f8ac65edf6e7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Peace</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>59</xmin>
+			<ymin>254</ymin>
+			<xmax>166</xmax>
+			<ymax>398</ymax>
+		</bndbox>
+	</object>
+</annotation>

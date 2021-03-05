@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimagesv3</folder>
+	<filename>no.8086575c-76b0-11eb-ac8b-f8ac65edf6e7.jpg</filename>
+	<path>E:\RealTimeHandGestureRecognition\Tensorflow\workspace\images\collectedimagesv3\no.8086575c-76b0-11eb-ac8b-f8ac65edf6e7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>No</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>134</xmin>
+			<ymin>224</ymin>
+			<xmax>242</xmax>
+			<ymax>330</ymax>
+		</bndbox>
+	</object>
+</annotation>

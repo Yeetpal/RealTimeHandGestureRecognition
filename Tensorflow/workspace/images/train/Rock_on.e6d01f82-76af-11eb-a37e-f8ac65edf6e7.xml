@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimagesv3</folder>
+	<filename>Rock_on.e6d01f82-76af-11eb-a37e-f8ac65edf6e7.jpg</filename>
+	<path>E:\RealTimeHandGestureRecognition\Tensorflow\workspace\images\collectedimagesv3\Rock_on.e6d01f82-76af-11eb-a37e-f8ac65edf6e7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Rock on</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>464</xmin>
+			<ymin>287</ymin>
+			<xmax>528</xmax>
+			<ymax>427</ymax>
+		</bndbox>
+	</object>
+</annotation>

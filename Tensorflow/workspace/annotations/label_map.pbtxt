@@ -1,0 +1,40 @@
+item { 
+	name:'Heart'
+	id:1
+}
+item { 
+	name:'Hello'
+	id:2
+}
+item { 
+	name:'No'
+	id:3
+}
+item { 
+	name:'Okay'
+	id:4
+}
+item { 
+	name:'Peace'
+	id:5
+}
+item { 
+	name:'Rock on'
+	id:6
+}
+item { 
+	name:'Small'
+	id:7
+}
+item { 
+	name:'Thumbs down'
+	id:8
+}
+item { 
+	name:'Thumbs up'
+	id:9
+}
+item { 
+	name:'Yes'
+	id:10
+}
